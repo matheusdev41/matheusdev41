@@ -23,7 +23,7 @@
     [![My Skills](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
 - Ferramentas e Tecnologias: 
 
-    [![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,visualstudio,arduino)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,visualstudio,docker,arduino)](https://skillicons.dev)
   
 
 ## Vamos Criar Algo Incrível! 💫
