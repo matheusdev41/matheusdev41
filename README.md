@@ -30,4 +30,3 @@
 
 💬 Quer colaborar em um projeto criativo e inovador? Estou sempre aberto a novas ideias e parcerias. Entre em contato comigo para discutirmos como podemos criar algo verdadeiramente extraordinário juntos. ✉️
 
-![matheusdev41 GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusdev41\&rank_icon=percentile)
