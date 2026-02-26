@@ -26,7 +26,3 @@
     [![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,visualstudio,docker,arduino)](https://skillicons.dev)
   
 
-## Vamos Criar Algo Incrível! 💫
-
-💬 Quer colaborar em um projeto criativo e inovador? Estou sempre aberto a novas ideias e parcerias. Entre em contato comigo para discutirmos como podemos criar algo verdadeiramente extraordinário juntos. ✉️
-
